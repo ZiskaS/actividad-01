@@ -1,4 +1,4 @@
-#EJERCICIOS
+# EJERCICIOS
 
 • Ejercicio 0. Creación del proyecto actividad-01 en Github.
 
